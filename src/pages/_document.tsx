@@ -1,4 +1,4 @@
-/* eslint-ignore */
+/* eslint-disable */
 import Document, {
   DocumentContext,
   Head,
