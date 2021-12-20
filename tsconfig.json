@@ -24,7 +24,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/components/Header/index.js", "src/components/Header/styles.js", "src/components/Header/test.spec.js", "src/components/Map/index.js"  ],
   "exclude": [
     "node_modules"
   ]
