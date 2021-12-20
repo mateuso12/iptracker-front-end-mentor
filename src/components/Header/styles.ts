@@ -192,5 +192,5 @@ export const MapContainer = styled.section `
   width: 100%;
   background: #ccc;
 
-  pointer-events: ${props => props.loading ? 'none':'auto'};
+  pointer-events: auto;
 `
