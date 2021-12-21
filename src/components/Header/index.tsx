@@ -1,4 +1,4 @@
-/* eslint-disable prettier/prettier */
+/* eslint-disable */
 import * as S from './styles'
 import dynamic from 'next/dynamic'
 import { useEffect, useState } from 'react'

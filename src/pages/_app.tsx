@@ -1,4 +1,4 @@
-/* eslint-disable prettier/prettier */
+/* eslint-disable */
 import { AppProps } from 'next/app'
 import Head from 'next/head'
 import { Toaster } from 'react-hot-toast'
